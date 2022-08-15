@@ -7,13 +7,12 @@
   resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.14.54.tgz#de2a4be678bd4d0d1ffbb86e6de779cde5999028"
   integrity sha512-bZBrLAIX1kpWelV0XemxBZllyRmM6vgFQQG2GdNb+r3Fkp0FOh1NJSvekXDs7jq70k4euu1cryLMfU+mTXlEpw==
 
-"@nanostores/solid@^0.1.6":
-  version "0.1.6"
-  resolved "https://registry.yarnpkg.com/@nanostores/solid/-/solid-0.1.6.tgz#c9938e06d26cb4981685f87123220bc68062e110"
-  integrity sha512-0nX7kUrpy5VAPkrR6S3HY1hPZymd3y/dWNsQ8aUIvXyKiukw/B5x5Hm9jvG4gG9ZjDnRXaYR3KWHeANxkNaTlw==
+"@nanostores/solid@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@nanostores/solid/-/solid-0.2.0.tgz#99bba3e52b06857211834f7652af75b2678de75e"
+  integrity sha512-JhL/leayenkwJkz1gMwgN4v1SHmYmBcZP6podWSOMTsFR+OEfjcqNWqA5amEapN+ouaP1aov7Kr7XsdRgPVnjA==
   dependencies:
-    nanostores "^0.5.12"
-    solid-js "^1.3.13"
+    nanostores "^0.6.0"
 
 esbuild-android-64@0.14.54:
   version "0.14.54"
@@ -171,11 +170,6 @@ nanoid@^3.3.4:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.4.tgz#730b67e3cd09e2deacf03c027c81c9d9dbc5e8ab"
   integrity sha512-MqBkQh/OHTS2egovRtLk45wEyNXwF+cokD+1YPf9u5VfJiRdAiRwB2froX5Co9Rh20xs4siNPm8naNotSD6RBw==
 
-nanostores@^0.5.12:
-  version "0.5.13"
-  resolved "https://registry.yarnpkg.com/nanostores/-/nanostores-0.5.13.tgz#81b6a3b1cbb3f099bcb1c002a78859b03b7c0a9d"
-  integrity sha512-UxC2eZsCbbcHZ1Z/hwFQ1C4gy8Tkhzskvmu6wOsAhOMAOd72HmVX1Nxs96DSDUcd7V1x0IdRtsl+zAm7rg7slA==
-
 nanostores@^0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/nanostores/-/nanostores-0.6.0.tgz#2eb82c611843fc01a04ddc19e5b4853aa015e71c"
@@ -216,7 +210,7 @@ resolve@^1.22.1:
   optionalDependencies:
     fsevents "~2.3.2"
 
-solid-js@^1.3.13:
+solid-js@^1.4.8:
   version "1.4.8"
   resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.4.8.tgz#a1e7f56c17d64c1729c6fd36fe513ca283e78dbd"
   integrity sha512-XErZdnnYYXF7OwGSUAPcua2y5/ELB/c53zFCpWiEGqxTNoH1iQghzI8EsHJXk06sNn+Z/TGhb8bPDNNGSgimag==
